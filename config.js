@@ -3,17 +3,17 @@
 
 const CONFIG = {
     // Partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: "Tanmay",
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: "Archana",
     
     // Custom messages
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "you are the sunshine in my darkest days and the stars in my night sky. Every moment with you feels like magic, and I fall in love with you more each day. You're not just my girlfriend, you're my best friend, my soulmate, and my everything. I love you beyond words! 💖",
-        specialMessage: "You came into my life like a beautiful surprise, and now I can't imagine my world without you. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is the greatest gift I've ever received.",
-        specialMessage2: "Thank you for being you, for loving me, and for making every day feel like a celebration. I promise to love you, cherish you, and make you smile every single day of our lives together.",
+        subtitle: "Tanu baby, you make my world a little sweeter every single day. From my best friend to my boyfriend… somehow, you became my favorite person❤️",
+        loveNote: "Bachchu, before you became my boyfriend, you were already my best friend. You were the person I could talk to about anything, laugh with, annoy endlessly, and simply be myself around. And somewhere along the way, my best friend became the person I fell in love with💖",
+        specialMessage: "Who knew that the person who started as my best friend would one day become my boyfriend? 😂❤️ I didn't just get a boyfriend—I got to fall in love with my best friend. And honestly, I wouldn't want our story any other way.",
+        specialMessage2: "Thank you for being my safe place, my favorite person to annoy, and now… my Bachchu. From best friends to boyfriend and girlfriend, our story is my favorite one. And I hope this is only the beginning of all the memories we're going to make together💕.",
         signature: "With all my love, Forever yours 💕"
     },
     
